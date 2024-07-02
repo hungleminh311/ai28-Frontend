@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Seamless Journeys",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Drive Your Dreams, Rent With Ease",
+  "subtitle": "Professional Car Rental Services for Seamless Journeys"
+}
